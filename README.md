@@ -2,7 +2,7 @@
   <img src="https://cdn-surjo.pages.dev/github%20banner.webp" 
        alt="Banner" 
        width="100%" 
-       style="border-radius: 40px;" />
+       style="border-radius: 20px;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Surjo Karmokar</h1>
