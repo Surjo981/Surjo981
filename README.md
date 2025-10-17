@@ -14,7 +14,7 @@
 - 🧒 I'm **12 years old** and started learning to code in **April 2025**  
 - 💻 I have learned **HTML** completely  
 - 🎨 I know about **70% of CSS** and still learning more every day  
-- ⚙️ I haven’t started **JavaScript** yet — I’ll begin after finishing CSS  
+- ⚙️ I’m still learning **JavaScript** and often write JS with the help of AI 🤖  
 - 🧩 I know the basics of **Git & GitHub** and plan to learn them properly later  
 - 🚀 My goal is to become a **skilled web developer**
 
@@ -27,9 +27,9 @@
 
 ### 🛠️ Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,windows" />
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surjo981&layout=compact&theme=algolia)
 ---
 
 ### 📊 My Learning Journey
