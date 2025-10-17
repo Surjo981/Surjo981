@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,windows" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjo981&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
