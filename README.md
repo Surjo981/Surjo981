@@ -1,4 +1,10 @@
-<img src="https://cdn-surjo.pages.dev/github%20banner%202.webp" style="width:100%; height:200px;  object-fit: cover;">
+<p align="center">
+  <img src="https://cdn-surjo.pages.dev/github%20banner%202.webp" 
+       alt="Banner" 
+       width="100%" 
+       style="border-radius: 20px;" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Surjo Karmokar</h1>
 <h3 align="center">🌱 A 12-year-old Learner & Future Web Developer</h3>
 
