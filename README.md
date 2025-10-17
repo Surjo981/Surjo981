@@ -30,9 +30,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,windows" />
 </p>
 
-<p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surjo981&layout=compact&theme=algolia)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjo981&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
+
 ---
 
 ### 📊 My Learning Journey
