@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Surjo Karmokar</h1>
+<h2 align="left">👋 Hi, I'm <span style="color: skyblue;" >Surjo Karmokar</span></h1>
 
 <p align="center">
   <img src="https://cdn-surjo.pages.dev/github%20banner.webp" 
