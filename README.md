@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 My Portfolio
+### 🌐 Portfolio
 🔗 [surjo.pages.dev](https://surjo.pages.dev)
 
 ---
