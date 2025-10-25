@@ -15,7 +15,7 @@
 - 🧒 I'm **12 years old** and started learning to code in **April 2025**  
 - 💻 I have learned **HTML** completely  
 - 🎨 I know about **70% of CSS** and still learning more every day  
-- ⚙️ I’m still learning **JavaScript** and often write JS with the help of AI 🤖  
+- ⚙️ I **haven't started** learning **JavaScript** yet, so I often write JS with the help of AI 🤖  
 - 🧩 I know the basics of **Git & GitHub** and plan to learn them properly later  
 - 🚀 My goal is to become a **skilled web developer**
 
@@ -38,6 +38,6 @@
 ---
 
 ### 📊 My Learning Journey
-I’m still learning step by step and improving my skills.  
+I’m **still learning** step by step and **improving** my skills.
 I believe **practice and patience** will make me better every day! 💪
 
