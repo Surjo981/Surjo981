@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi, I'm Surjo Karmokar</h1>
 
 <p align="center">
-  <img src="https://cdn-surjo.pages.dev/github%20banner.webp" 
+  <img src="https://cdn-surjo.pages.dev/github-banner.webp" 
        alt="Banner" 
        width="100%" 
        style="border-radius: 20px;" />
