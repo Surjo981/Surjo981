@@ -7,14 +7,14 @@
        style="border-radius: 20px;" />
 </p>
 
-<h3 align="center">🌱 A 12-year-old Learner & Future Web Developer</h3>
+<h3 align="center">🌱 A 13-year-old Learner & Future Web Developer</h3>
 
 ---
 
 ### 🧠 About Me
-- 🧒 I'm **12 years old** and started learning to code in **April 2025**  
+- 🧒 I'm **13 years old** and started learning to code in **April 2025**  
 - 💻 I have learned **HTML** completely  
-- 🎨 I know about **85% of CSS** and still learning more every day  
+- 🎨 I know about **87% of CSS** and still learning more every day  
 - ⚙️ I **haven't started** learning **JavaScript** yet, so I often write JS with the help of AI 🤖  
 - 🧩 I know the basics of **Git & GitHub** and plan to learn them properly later  
 - 🚀 My goal is to become a **skilled web developer**
