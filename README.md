@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 - 🧒 I'm **13 years old** and started learning to code in **April 2025**  
 - 💻 I have learned **HTML** completely  
 - 🎨 I know about **87% of CSS** and still learning more every day  
@@ -21,12 +21,12 @@
 
 ---
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 🔗 [surjo.pages.dev](https://surjo.pages.dev)
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,windows" />
 </p>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 My Learning Journey
+## 📊 My Learning Journey
 - I’m **still learning** step by step and **improving** my skills.
 - I believe **practice and patience** will make me better every day! 💪
 
