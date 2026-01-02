@@ -40,7 +40,3 @@
 ### 📊 My Learning Journey
 - I’m **still learning** step by step and **improving** my skills.
 - I believe **practice and patience** will make me better every day! 💪
-
----
-
-<h3 align="center">Happy New Year 2026 🎊🎉</h2>
