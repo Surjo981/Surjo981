@@ -34,7 +34,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjo981&layout=compact&theme=ambient_gradient" alt="Top Languages" />
+  <img src="https://githubcard.com/Surjo981.svg?d=hiePrL2k" alt="Top Languages" />
 </p>
 
 ---
