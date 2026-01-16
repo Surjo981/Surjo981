@@ -21,9 +21,9 @@
 
 ---
 
-### 🌐 Portfolio
-🔗 [surjo.pages.dev](https://surjo.pages.dev)
-
+### 🌐 Links
+🔗 [Portfolio](https://surjo.pages.dev)
+🔗 [Frontend Mentor](https://www.frontendmentor.io/profile/Surjo981)
 ---
 
 ### 🛠️ Skills & Tools
