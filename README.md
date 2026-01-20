@@ -33,9 +33,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,windows" />
 </p>
 
-<p align="left">
-  <img src="https://githubcard.com/Surjo981.svg?d=hiePrL2k" alt="Top Languages" />
-</p>
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Surjo981&theme=react)](https://github.com/KasRoudra/github-stats-card)
 
 ---
 
