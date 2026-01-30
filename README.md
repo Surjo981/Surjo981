@@ -1,11 +1,6 @@
 <h2 align="left">👋 Hi, I'm Surjo Karmokar</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Surjo981/Surjo981/refs/heads/main/banner.webp" 
-       alt="Banner" 
-       width="100%" 
-       style="border-radius: 20px;" />
-</p>
+![Banner](https://raw.githubusercontent.com/Surjo981/Surjo981/refs/heads/main/banner.webp)
 
 <h3 align="center">🌱 A 13-year-old Learner & Future Web Developer</h3>
 
@@ -29,9 +24,14 @@
 ---
 
 ### 🛠️ Skills & Tools
+
+**Skills**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,windows" />
 </p>
+
+**Most used languages**
 
 [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Surjo981&theme=react)](https://github.com/KasRoudra/github-stats-card)
 
