@@ -33,7 +33,7 @@
 
 **Most used languages**
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Surjo981&theme=react)](https://github.com/KasRoudra/github-stats-card)
+![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Surjo981&theme=react)
 
 ---
 
