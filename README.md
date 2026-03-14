@@ -10,7 +10,7 @@
 - 🧒 I'm **13 years old** and started learning to code in **April 2025**  
 - 💻 I have learned **HTML** completely  
 - 🎨 I know about **87% of CSS** and still learning more every day  
-- ⚙️ I've **recently started** learning **JavaScript** and built [Ultra Counter](https://github.com/Surjo981/Ultra-Counter/)
+- ⚙️ I've **recently started** learning **JavaScript** and built my first JS Project - [Ultra Counter](https://github.com/Surjo981/Ultra-Counter/)
 - 🧩 I know the basics of **Git & GitHub** and plan to learn them properly later  
 - 🚀 My goal is to become a **skilled web developer**
 
